@@ -1,0 +1,285 @@
+{
+  "about": {
+    "name": "Nazmul Hasan",
+    "role": "Junior Web Developer",
+    "title": "I build modern and responsive web experiences.",
+    "description": "I am a passionate Junior Web Developer focused on building clean, responsive and user-friendly web applications. I enjoy working with modern technologies and continuously improving my development skills.",
+    "experience": "Learning & Building",
+    "projects": "10+",
+    "technologies": "20+"
+  },
+
+  "skills": [
+    {
+      "id": 1,
+      "category": "Frontend Development",
+      "icon": "FaLaptopCode",
+      "color": "blue",
+      "description": "Building modern, responsive and user-friendly websites with clean and reusable components.",
+      "technologies": [
+        {
+          "name": "HTML5",
+          "icon": "FaHtml5"
+        },
+        {
+          "name": "CSS3",
+          "icon": "FaCss3Alt"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "FaJs"
+        },
+        {
+          "name": "React",
+          "icon": "FaReact"
+        },
+        {
+          "name": "Next.js",
+          "icon": "FaCode"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "FaWind"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "category": "JavaScript Development",
+      "icon": "FaJs",
+      "color": "yellow",
+      "description": "Creating interactive web applications using modern JavaScript, reusable logic and component-based development.",
+      "technologies": [
+        {
+          "name": "ES6+",
+          "icon": "FaJs"
+        },
+        {
+          "name": "DOM",
+          "icon": "FaCode"
+        },
+        {
+          "name": "Async / Await",
+          "icon": "FaBolt"
+        },
+        {
+          "name": "API",
+          "icon": "FaServer"
+        },
+        {
+          "name": "React",
+          "icon": "FaReact"
+        },
+        {
+          "name": "JSON",
+          "icon": "FaFileCode"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "category": "React & Next.js",
+      "icon": "FaReact",
+      "color": "cyan",
+      "description": "Developing modern web applications using React and Next.js with reusable components and responsive interfaces.",
+      "technologies": [
+        {
+          "name": "React",
+          "icon": "FaReact"
+        },
+        {
+          "name": "Next.js",
+          "icon": "FaCode"
+        },
+        {
+          "name": "Hooks",
+          "icon": "FaCode"
+        },
+        {
+          "name": "Components",
+          "icon": "FaPuzzlePiece"
+        },
+        {
+          "name": "App Router",
+          "icon": "FaRoute"
+        },
+        {
+          "name": "API",
+          "icon": "FaServer"
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "category": "Graphic Design",
+      "icon": "FaPalette",
+      "color": "purple",
+      "description": "Creating clean and creative visual designs for brands, social media and digital platforms.",
+      "technologies": [
+        {
+          "name": "Adobe Illustrator",
+          "icon": "FaPenNib"
+        },
+        {
+          "name": "Photoshop",
+          "icon": "FaImage"
+        },
+        {
+          "name": "Vector Design",
+          "icon": "FaVectorSquare"
+        },
+        {
+          "name": "Typography",
+          "icon": "FaFont"
+        },
+        {
+          "name": "Branding",
+          "icon": "FaTrademark"
+        },
+        {
+          "name": "Creative Design",
+          "icon": "FaPalette"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "category": "T-Shirt Design",
+      "icon": "FaShirt",
+      "color": "pink",
+      "description": "Designing unique and print-ready T-shirt graphics for POD stores, brands and online marketplaces.",
+      "technologies": [
+        {
+          "name": "T-Shirt Graphics",
+          "icon": "FaShirt"
+        },
+        {
+          "name": "Typography",
+          "icon": "FaFont"
+        },
+        {
+          "name": "POD",
+          "icon": "FaPrint"
+        },
+        {
+          "name": "Merch Design",
+          "icon": "FaBagShopping"
+        },
+        {
+          "name": "Print Ready",
+          "icon": "FaFileExport"
+        },
+        {
+          "name": "Vector",
+          "icon": "FaVectorSquare"
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "category": "UI/UX Design",
+      "icon": "FaPenRuler",
+      "color": "orange",
+      "description": "Designing clean, intuitive and user-friendly interfaces with a focus on usability and visual hierarchy.",
+      "technologies": [
+        {
+          "name": "Figma",
+          "icon": "FaPenRuler"
+        },
+        {
+          "name": "Wireframe",
+          "icon": "FaPenRuler"
+        },
+        {
+          "name": "Prototype",
+          "icon": "FaObjectGroup"
+        },
+        {
+          "name": "UI Design",
+          "icon": "FaDesktop"
+        },
+        {
+          "name": "UX Design",
+          "icon": "FaUsers"
+        },
+        {
+          "name": "Responsive Design",
+          "icon": "FaMobileScreen"
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "category": "Git & GitHub",
+      "icon": "FaGithub",
+      "color": "gray",
+      "description": "Managing source code, version control and collaborative development using Git and GitHub.",
+      "technologies": [
+        {
+          "name": "Git",
+          "icon": "FaGitAlt"
+        },
+        {
+          "name": "GitHub",
+          "icon": "FaGithub"
+        },
+        {
+          "name": "Branch",
+          "icon": "FaCodeBranch"
+        },
+        {
+          "name": "Pull Request",
+          "icon": "FaCodePullRequest"
+        },
+        {
+          "name": "Version Control",
+          "icon": "FaCodeCommit"
+        },
+        {
+          "name": "Repository",
+          "icon": "FaFolderOpen"
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "category": "Deployment",
+      "icon": "FaCloudArrowUp",
+      "color": "green",
+      "description": "Deploying modern web applications and managing production projects using popular hosting platforms.",
+      "technologies": [
+        {
+          "name": "Vercel",
+          "icon": "FaCloudArrowUp"
+        },
+        {
+          "name": "Netlify",
+          "icon": "FaCloudArrowUp"
+        },
+        {
+          "name": "GitHub",
+          "icon": "FaGithub"
+        },
+        {
+          "name": "Production",
+          "icon": "FaServer"
+        },
+        {
+          "name": "Deployment",
+          "icon": "FaCloudArrowUp"
+        },
+        {
+          "name": "CI/CD",
+          "icon": "FaArrowsRotate"
+        }
+      ]
+    }
+  ]
+}
